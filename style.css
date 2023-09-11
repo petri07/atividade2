@@ -1,14 +1,14 @@
 body{
-    background: black;
+    background: rgb(255, 255, 255);
 }
 h1{
     font-size: 60px;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 p{
     font-size: 30px;
-    color: yellow;
+    color: rgb(4, 150, 125);
     text-align: justify;
 }
 img{
