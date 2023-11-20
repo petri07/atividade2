@@ -1,19 +1,54 @@
 body{
     background: rgb(255, 255, 255);
 }
-h1{
-    font-size: 60px;
-    color: rgb(0, 0, 0);
+.titulobanda{
+    font-size: 30px;
+    color: black;
     text-align: center;
 }
-p{
+.subtitulobanda{
     font-size: 30px;
-    color: rgb(4, 150, 125);
-    text-align: justify;
-}
-img{
-    width: 300px;
+    color: black;
+    text-align: center;
+}    
+.fotos{ 
+    width: 300px;   
     height: 300px;
     margin: 30px;
     margin-left: 130px;
+    text-align: center;
 }
+
+.albuns{
+    border: 5px solid  black;
+
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+h2{
+     
+
+
+    text-align: center;
+    color: black;
+
+
+}
+
+.cabecalho{
+    background-color: aliceblue;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 200px;
+}
+.item_lista_cabecalho{
+    color: blue;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding: 7px;
+}
+
+    
